@@ -60,6 +60,7 @@ exclude:
   - LICENSE.txt
   - /index.md # this file is for ty's entire archive, not this specific website
   - art
+  - .git
 
 plugins:
   - jekyll-feed
